@@ -10,6 +10,5 @@
 </p>
 
 <img src="./Preview/pic1.png" width="250" /> 
-<img src="./Preview/pic2.png" width="250" />
 
 ---
